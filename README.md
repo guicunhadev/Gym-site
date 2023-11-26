@@ -1,5 +1,6 @@
 # Fitclub Website 
-![foto para github belo dente](https://github.com/guicunhadev/Dentista_site/assets/103011349/2f3d301b-825b-412e-b137-02668adb1296)
+![foto site academia](https://github.com/guicunhadev/Gym-site/assets/103011349/6b16fe58-edba-408d-94ab-97924e7465bd)
+
 > Status: Developed ✅
 # <a href="https://guicunhadev.github.io/Gym-site/"  target="_blank"><strong>➥ Live Demo</strong></a>
 
