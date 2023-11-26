@@ -439,14 +439,7 @@ nav {
     background-color: var(--secondary-color);
 }
 
-/* -------------Review----------------- */
-
-
-
-
-
-
-/* ----------Review novo---------- */
+/* ----------Review---------- */
 .review {
   background-color: var(--primary-color);
 }
@@ -479,7 +472,7 @@ nav {
 .testimonials__grid {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
   margin-bottom: 2rem;
 }
@@ -610,7 +603,8 @@ nav {
       grid-area: 1/1/2/2;
     }
   
-    .explore__grid {
+    .explore__grid,
+    .testimonials__grid {
       grid-template-columns: repeat(2, 1fr);
       gap: 1rem;
     }
